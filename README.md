@@ -13,6 +13,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/A-ryan8/DSA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/A-ryan8/DSA/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,4 +34,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1927-sum-game](https://github.com/A-ryan8/DSA/tree/main/1927-sum-game/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/A-ryan8/DSA/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
