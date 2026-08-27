@@ -15,6 +15,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/A-ryan8/DSA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0086-partition-list](https://github.com/A-ryan8/DSA/tree/main/0086-partition-list/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/A-ryan8/DSA/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -40,6 +41,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0086-partition-list](https://github.com/A-ryan8/DSA/tree/main/0086-partition-list/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/A-ryan8/DSA/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
