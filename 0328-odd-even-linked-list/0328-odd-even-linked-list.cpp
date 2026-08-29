@@ -18,7 +18,7 @@ public:
         ListNode* odd=&od;
         int n=1;
         while(curr){
-            ListNode* nextNode = curr->next;
+            
             if(n%2==0){
                 even->next=curr;
                 even=even->next;
@@ -26,7 +26,7 @@ public:
             odd->next=curr;
             odd=odd->next;
             }
-            curr=nextNode;
+            curr=curr->next;
             n++;
            
 
