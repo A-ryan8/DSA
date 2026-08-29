@@ -17,6 +17,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/A-ryan8/DSA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0086-partition-list](https://github.com/A-ryan8/DSA/tree/main/0086-partition-list/) | Medium |
 | [0143-reorder-list](https://github.com/A-ryan8/DSA/tree/main/0143-reorder-list/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/A-ryan8/DSA/tree/main/0328-odd-even-linked-list/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/A-ryan8/DSA/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
