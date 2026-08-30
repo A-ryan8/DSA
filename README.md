@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/A-ryan8/DSA/tree/main/0001-two-sum/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/A-ryan8/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/A-ryan8/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -37,6 +38,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1927-sum-game](https://github.com/A-ryan8/DSA/tree/main/1927-sum-game/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/A-ryan8/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
