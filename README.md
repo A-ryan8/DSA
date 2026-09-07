@@ -22,6 +22,7 @@
 | [0086-partition-list](https://github.com/A-ryan8/DSA/tree/main/0086-partition-list/) | Medium |
 | [0143-reorder-list](https://github.com/A-ryan8/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/A-ryan8/DSA/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/A-ryan8/DSA/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/A-ryan8/DSA/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -31,6 +32,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0445-add-two-numbers-ii](https://github.com/A-ryan8/DSA/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1927-sum-game](https://github.com/A-ryan8/DSA/tree/main/1927-sum-game/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/A-ryan8/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## String
@@ -61,6 +63,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/A-ryan8/DSA/tree/main/0143-reorder-list/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/A-ryan8/DSA/tree/main/0445-add-two-numbers-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
