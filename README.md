@@ -34,6 +34,7 @@
 | ------- | ------- |
 | [0445-add-two-numbers-ii](https://github.com/A-ryan8/DSA/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1927-sum-game](https://github.com/A-ryan8/DSA/tree/main/1927-sum-game/) | Medium |
+| [3870-count-commas-in-range](https://github.com/A-ryan8/DSA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/A-ryan8/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
