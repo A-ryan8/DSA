@@ -36,6 +36,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0445-add-two-numbers-ii](https://github.com/A-ryan8/DSA/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0836-rectangle-overlap](https://github.com/A-ryan8/DSA/tree/main/0836-rectangle-overlap/) | Easy |
 | [1927-sum-game](https://github.com/A-ryan8/DSA/tree/main/1927-sum-game/) | Medium |
 | [3870-count-commas-in-range](https://github.com/A-ryan8/DSA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/A-ryan8/DSA/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -90,4 +91,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/A-ryan8/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/A-ryan8/DSA/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
