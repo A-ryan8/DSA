@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/A-ryan8/DSA/tree/main/0001-two-sum/) | Easy |
+| [0525-contiguous-array](https://github.com/A-ryan8/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/A-ryan8/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/A-ryan8/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/A-ryan8/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -16,6 +17,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/A-ryan8/DSA/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/A-ryan8/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0525-contiguous-array](https://github.com/A-ryan8/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/A-ryan8/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/A-ryan8/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Linked List
@@ -78,6 +80,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0525-contiguous-array](https://github.com/A-ryan8/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/A-ryan8/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/A-ryan8/DSA/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Tree
