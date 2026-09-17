@@ -15,6 +15,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/A-ryan8/DSA/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/A-ryan8/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/A-ryan8/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/A-ryan8/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Linked List
@@ -44,6 +45,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/A-ryan8/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/A-ryan8/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [1927-sum-game](https://github.com/A-ryan8/DSA/tree/main/1927-sum-game/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/A-ryan8/DSA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -66,6 +68,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/A-ryan8/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/A-ryan8/DSA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
