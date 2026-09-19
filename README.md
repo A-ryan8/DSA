@@ -41,6 +41,7 @@
 | ------- | ------- |
 | [0445-add-two-numbers-ii](https://github.com/A-ryan8/DSA/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0836-rectangle-overlap](https://github.com/A-ryan8/DSA/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/A-ryan8/DSA/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1927-sum-game](https://github.com/A-ryan8/DSA/tree/main/1927-sum-game/) | Medium |
 | [3870-count-commas-in-range](https://github.com/A-ryan8/DSA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/A-ryan8/DSA/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -104,6 +105,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/A-ryan8/DSA/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/A-ryan8/DSA/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
