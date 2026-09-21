@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/A-ryan8/DSA/tree/main/0001-two-sum/) | Easy |
+| [0047-permutations-ii](https://github.com/A-ryan8/DSA/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/A-ryan8/DSA/tree/main/0078-subsets/) | Medium |
 | [0525-contiguous-array](https://github.com/A-ryan8/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/A-ryan8/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -118,6 +119,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/A-ryan8/DSA/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/A-ryan8/DSA/tree/main/0078-subsets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -127,4 +129,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/A-ryan8/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0047-permutations-ii](https://github.com/A-ryan8/DSA/tree/main/0047-permutations-ii/) | Medium |
 <!---LeetCode Topics End-->
