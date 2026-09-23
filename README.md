@@ -20,6 +20,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/A-ryan8/DSA/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/A-ryan8/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/A-ryan8/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0525-contiguous-array](https://github.com/A-ryan8/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/A-ryan8/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/A-ryan8/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -41,6 +42,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/A-ryan8/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/A-ryan8/DSA/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0836-rectangle-overlap](https://github.com/A-ryan8/DSA/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/A-ryan8/DSA/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
@@ -53,6 +55,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/A-ryan8/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/A-ryan8/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0013-roman-to-integer](https://github.com/A-ryan8/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [1927-sum-game](https://github.com/A-ryan8/DSA/tree/main/1927-sum-game/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/A-ryan8/DSA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/A-ryan8/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
