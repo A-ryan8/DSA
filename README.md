@@ -8,6 +8,7 @@
 | [0018-4sum](https://github.com/A-ryan8/DSA/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/A-ryan8/DSA/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/A-ryan8/DSA/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/A-ryan8/DSA/tree/main/0079-word-search/) | Medium |
 | [0525-contiguous-array](https://github.com/A-ryan8/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/A-ryan8/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/A-ryan8/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -58,6 +59,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/A-ryan8/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/A-ryan8/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/A-ryan8/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0079-word-search](https://github.com/A-ryan8/DSA/tree/main/0079-word-search/) | Medium |
 | [1927-sum-game](https://github.com/A-ryan8/DSA/tree/main/1927-sum-game/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/A-ryan8/DSA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/A-ryan8/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -101,6 +103,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/A-ryan8/DSA/tree/main/0079-word-search/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/A-ryan8/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -128,6 +131,7 @@
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/A-ryan8/DSA/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/A-ryan8/DSA/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/A-ryan8/DSA/tree/main/0079-word-search/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,4 +145,8 @@
 | ------- | ------- |
 | [0018-4sum](https://github.com/A-ryan8/DSA/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/A-ryan8/DSA/tree/main/0047-permutations-ii/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/A-ryan8/DSA/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
