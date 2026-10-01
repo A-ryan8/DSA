@@ -59,6 +59,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/A-ryan8/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/A-ryan8/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/A-ryan8/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0020-valid-parentheses](https://github.com/A-ryan8/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0079-word-search](https://github.com/A-ryan8/DSA/tree/main/0079-word-search/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/A-ryan8/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/A-ryan8/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -90,6 +91,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/A-ryan8/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/A-ryan8/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/A-ryan8/DSA/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/A-ryan8/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -156,6 +158,7 @@
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/A-ryan8/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/A-ryan8/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/A-ryan8/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
