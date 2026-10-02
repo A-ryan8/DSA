@@ -60,6 +60,7 @@
 | [0005-longest-palindromic-substring](https://github.com/A-ryan8/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/A-ryan8/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/A-ryan8/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/A-ryan8/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/A-ryan8/DSA/tree/main/0079-word-search/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/A-ryan8/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/A-ryan8/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -128,6 +129,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/A-ryan8/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/A-ryan8/DSA/tree/main/0022-generate-parentheses/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +137,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/A-ryan8/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0047-permutations-ii](https://github.com/A-ryan8/DSA/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/A-ryan8/DSA/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/A-ryan8/DSA/tree/main/0079-word-search/) | Medium |
@@ -159,6 +162,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/A-ryan8/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/A-ryan8/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/A-ryan8/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/A-ryan8/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
