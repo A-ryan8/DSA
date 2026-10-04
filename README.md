@@ -62,6 +62,7 @@
 | [0020-valid-parentheses](https://github.com/A-ryan8/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/A-ryan8/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/A-ryan8/DSA/tree/main/0079-word-search/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/A-ryan8/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/A-ryan8/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/A-ryan8/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1927-sum-game](https://github.com/A-ryan8/DSA/tree/main/1927-sum-game/) | Medium |
@@ -70,6 +71,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/A-ryan8/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1927-sum-game](https://github.com/A-ryan8/DSA/tree/main/1927-sum-game/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/A-ryan8/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Game Theory
@@ -95,6 +97,7 @@
 | [0020-valid-parentheses](https://github.com/A-ryan8/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/A-ryan8/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/A-ryan8/DSA/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/A-ryan8/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/A-ryan8/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/A-ryan8/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Prefix Sum
@@ -130,6 +133,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/A-ryan8/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/A-ryan8/DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/A-ryan8/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,6 +167,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/A-ryan8/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/A-ryan8/DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/A-ryan8/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/A-ryan8/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/A-ryan8/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
