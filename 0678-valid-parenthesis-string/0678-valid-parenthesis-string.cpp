@@ -13,20 +13,20 @@ public:
                 low--;
                 high--;
             }
-            else { // '*'
-                low--;   // '*' acts as ')'
-                high++;  // '*' acts as '('
+            else {
+                low--;  
+                high++; 
             }
 
-            // Even the maximum possible opens is negative
+            
             if (high < 0)
                 return false;
 
-            // Minimum cannot be negative
+         
             low = max(0, low);
         }
 
-        // If zero is within the possible range, string is valid
+       
         return low == 0;
     }
 };
