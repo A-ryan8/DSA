@@ -10,6 +10,7 @@
 | [0078-subsets](https://github.com/A-ryan8/DSA/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/A-ryan8/DSA/tree/main/0079-word-search/) | Medium |
 | [0525-contiguous-array](https://github.com/A-ryan8/DSA/tree/main/0525-contiguous-array/) | Medium |
+| [0817-linked-list-components](https://github.com/A-ryan8/DSA/tree/main/0817-linked-list-components/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/A-ryan8/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/A-ryan8/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/A-ryan8/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -25,6 +26,7 @@
 | [0012-integer-to-roman](https://github.com/A-ryan8/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/A-ryan8/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0525-contiguous-array](https://github.com/A-ryan8/DSA/tree/main/0525-contiguous-array/) | Medium |
+| [0817-linked-list-components](https://github.com/A-ryan8/DSA/tree/main/0817-linked-list-components/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/A-ryan8/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/A-ryan8/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Linked List
@@ -35,6 +37,7 @@
 | [0143-reorder-list](https://github.com/A-ryan8/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/A-ryan8/DSA/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/A-ryan8/DSA/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0817-linked-list-components](https://github.com/A-ryan8/DSA/tree/main/0817-linked-list-components/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/A-ryan8/DSA/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
