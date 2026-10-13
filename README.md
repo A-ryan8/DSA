@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/A-ryan8/DSA/tree/main/0001-two-sum/) | Easy |
 | [0018-4sum](https://github.com/A-ryan8/DSA/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/A-ryan8/DSA/tree/main/0047-permutations-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/A-ryan8/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0078-subsets](https://github.com/A-ryan8/DSA/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/A-ryan8/DSA/tree/main/0079-word-search/) | Medium |
 | [0525-contiguous-array](https://github.com/A-ryan8/DSA/tree/main/0525-contiguous-array/) | Medium |
@@ -26,6 +27,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/A-ryan8/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/A-ryan8/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/A-ryan8/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0049-group-anagrams](https://github.com/A-ryan8/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0525-contiguous-array](https://github.com/A-ryan8/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0817-linked-list-components](https://github.com/A-ryan8/DSA/tree/main/0817-linked-list-components/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/A-ryan8/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -68,6 +70,7 @@
 | [0013-roman-to-integer](https://github.com/A-ryan8/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/A-ryan8/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/A-ryan8/DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0049-group-anagrams](https://github.com/A-ryan8/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0079-word-search](https://github.com/A-ryan8/DSA/tree/main/0079-word-search/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/A-ryan8/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/A-ryan8/DSA/tree/main/0856-score-of-parentheses/) | Medium |
@@ -173,6 +176,7 @@
 | ------- | ------- |
 | [0018-4sum](https://github.com/A-ryan8/DSA/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/A-ryan8/DSA/tree/main/0047-permutations-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/A-ryan8/DSA/tree/main/0049-group-anagrams/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
