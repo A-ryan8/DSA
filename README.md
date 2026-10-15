@@ -14,6 +14,7 @@
 | [0817-linked-list-components](https://github.com/A-ryan8/DSA/tree/main/0817-linked-list-components/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/A-ryan8/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/A-ryan8/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/A-ryan8/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/A-ryan8/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/A-ryan8/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/A-ryan8/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -30,6 +31,7 @@
 | [0049-group-anagrams](https://github.com/A-ryan8/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0525-contiguous-array](https://github.com/A-ryan8/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0817-linked-list-components](https://github.com/A-ryan8/DSA/tree/main/0817-linked-list-components/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/A-ryan8/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/A-ryan8/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/A-ryan8/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Linked List
@@ -192,4 +194,12 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/A-ryan8/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/A-ryan8/DSA/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/A-ryan8/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/A-ryan8/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/A-ryan8/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
