@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/A-ryan8/DSA/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/A-ryan8/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0018-4sum](https://github.com/A-ryan8/DSA/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/A-ryan8/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0047-permutations-ii](https://github.com/A-ryan8/DSA/tree/main/0047-permutations-ii/) | Medium |
@@ -90,6 +91,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/A-ryan8/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/A-ryan8/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/A-ryan8/DSA/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1927-sum-game](https://github.com/A-ryan8/DSA/tree/main/1927-sum-game/) | Medium |
@@ -102,6 +104,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/A-ryan8/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0011-container-with-most-water](https://github.com/A-ryan8/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0018-4sum](https://github.com/A-ryan8/DSA/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/A-ryan8/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0086-partition-list](https://github.com/A-ryan8/DSA/tree/main/0086-partition-list/) | Medium |
