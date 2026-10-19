@@ -14,6 +14,7 @@
 | [0079-word-search](https://github.com/A-ryan8/DSA/tree/main/0079-word-search/) | Medium |
 | [0525-contiguous-array](https://github.com/A-ryan8/DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0817-linked-list-components](https://github.com/A-ryan8/DSA/tree/main/0817-linked-list-components/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/A-ryan8/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/A-ryan8/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/A-ryan8/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/A-ryan8/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -187,6 +188,7 @@
 | [0018-4sum](https://github.com/A-ryan8/DSA/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/A-ryan8/DSA/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/A-ryan8/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/A-ryan8/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,4 +212,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/A-ryan8/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/A-ryan8/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 <!---LeetCode Topics End-->
