@@ -53,6 +53,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/A-ryan8/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/A-ryan8/DSA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0050-powx-n](https://github.com/A-ryan8/DSA/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/A-ryan8/DSA/tree/main/0143-reorder-list/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/A-ryan8/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Math
@@ -61,6 +62,7 @@
 | [0002-add-two-numbers](https://github.com/A-ryan8/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/A-ryan8/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/A-ryan8/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0050-powx-n](https://github.com/A-ryan8/DSA/tree/main/0050-powx-n/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/A-ryan8/DSA/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0836-rectangle-overlap](https://github.com/A-ryan8/DSA/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/A-ryan8/DSA/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
